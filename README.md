@@ -2,7 +2,9 @@ wdi21-github_accounts
 # List of GA WDI21 students github accounts
 
 [Bradley Farquhar](https://github.com/farquhar86)
+
 [Daniel Preys](https://github.com/danielpreys)
+
 [Darragh Monaghan](https://github.com/darraghmonaghan)
 [Eric Euresti](https://github.com/eeuresti)
 [Francis Serpa](https://github.com/FCSerpa)

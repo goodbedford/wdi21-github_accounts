@@ -1,5 +1,5 @@
 wdi21-github_accounts
-# List of GA WDI21 students github accounts
+# List of GA WDI21 student's github accounts
 
 [Bradley Farquhar](https://github.com/farquhar86)	|X|
 [Daniel Preys](https://github.com/danielpreys)	|X|

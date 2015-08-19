@@ -13,6 +13,7 @@ wdi21-github_accounts
 [Jamie Evangelista](https://github.com/jevangelista)	|X|
 [Justin Almeida](https://github.com/jhalmeida)	|X|
 [Justin Reyes](https://github.com/JstnRegi)	|X|
+
 [Katie Lin](https://github.com/katiejenn)	|X|
 [Keala Lusk](https://github.com/kealalusk)	|X|
 [Kristian Larsson](https://github.com/larskris)	|X|
